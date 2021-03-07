@@ -1,4 +1,4 @@
-# Gapminder World dataset inverstigation
+# Gapminder World dataset investigation
 
 This project is part of a Udacity online course (Data analyst nanodegree). It is the first one out of four. It comes after a lession explaining the basics
 of data analysis process where we learn how to gather, clean and explore data. Conclusions based on selected metrics are drawn after these steps and findings are shared at the end.
