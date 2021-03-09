@@ -10,7 +10,7 @@ You will find the data set I worked with in the folder, in case it changed on Ga
 In this project, I chose to answer to the following questions (using visuals):
 - How is income distributed in the world in 2020 comapred to 1950 ? (Visual = Histogram)
 - How did life expectency change through time for each region ? (Visual = Line chart)
-- Do countries with higher income achieve better higher human developpement index ? (Visual = Bar chart)
+- Do countries with higher income achieve higher human developpement index ? (Visual = Bar chart)
 - Is there any correlation between inqueality and corruption rates in europe ? (Visual = Scatter plot)
 
 To do this, I will be using several functions from pandas, numpy and matplotlib packages.
