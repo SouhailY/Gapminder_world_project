@@ -14,4 +14,4 @@ In this project, I chose to answer to the following questions (using visuals):
 - Is there any correlation between inqueality and corruption rates in europe ? (Visual = Scatter plot)
 
 To do this, I will be using several functions from pandas, numpy and matplotlib packages.
-
+You will find the code in "Investigating_a_dataset" in .ipynb or .html format.
